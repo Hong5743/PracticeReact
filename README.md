@@ -1,3 +1,10 @@
-# Moovie App 2023
-React JS Fundamentals Course 2020
-please wait
+# React
+오직 view만 신경쓰는 라이브러리
+
+## 컴포넌트
+<hr>
+사용자에게 어떻게 생길지 정하는 선언체
+
+## 렌더링
+<hr>
+사용자 화면에 뷰를 보여주는 것
